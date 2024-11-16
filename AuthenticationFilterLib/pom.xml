@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.ray</groupId>
 	<artifactId>AuthenticationFilterLib</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	  <version>v0.0.1</version>
 	<name>AuthenticationFilterLib</name>
 	<description>Library for JWT-based authentication filter</description>
 	<url/>
